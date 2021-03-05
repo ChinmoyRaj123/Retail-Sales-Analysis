@@ -6,8 +6,16 @@
   * To Perform Exploratory Data Analysis
   * To find out meaningful insights associated with it.
   
-  
-
+![retail-sales-analysis - Jupyter Notebook - Google Chrome 05-03-2021 5 07 59 PM](https://user-images.githubusercontent.com/65728129/110112586-f2ce9e80-7dd7-11eb-808a-2f620b06cc41.png)
+![retail-sales-analysis - Jupyter Notebook - Google Chrome 05-03-2021 5 08 16 PM](https://user-images.githubusercontent.com/65728129/110112594-f530f880-7dd7-11eb-9e98-5621b1481b30.png)
+![retail-sales-analysis - Jupyter Notebook - Google Chrome 05-03-2021 5 08 29 PM](https://user-images.githubusercontent.com/65728129/110112605-f6fabc00-7dd7-11eb-84f8-c60b1b0e7a67.png)
+![retail-sales-analysis - Jupyter Notebook - Google Chrome 05-03-2021 5 09 00 PM](https://user-images.githubusercontent.com/65728129/110112617-f8c47f80-7dd7-11eb-82fc-8f0ea5c525e6.png)
+![retail-sales-analysis - Jupyter Notebook - Google Chrome 05-03-2021 5 09 19 PM](https://user-images.githubusercontent.com/65728129/110112623-fb26d980-7dd7-11eb-8ba6-728dee78351a.png)
+![retail-sales-analysis - Jupyter Notebook - Google Chrome 05-03-2021 5 09 37 PM](https://user-images.githubusercontent.com/65728129/110112628-fd893380-7dd7-11eb-9a44-2732142aede5.png)
+![retail-sales-analysis - Jupyter Notebook - Google Chrome 05-03-2021 5 09 50 PM](https://user-images.githubusercontent.com/65728129/110112636-ff52f700-7dd7-11eb-84b3-fe58054931e0.png)
+![newplot (6)](https://user-images.githubusercontent.com/65728129/110111107-d3367680-7dd5-11eb-800a-f8a2a9eb9eb7.png)
+![newplot (7)](https://user-images.githubusercontent.com/65728129/110111111-d598d080-7dd5-11eb-9237-b5eff1e24040.png)
+![newplot (8)](https://user-images.githubusercontent.com/65728129/110111119-d7629400-7dd5-11eb-9cfc-71d71b186540.png)
 
 
 ## Insights from Exploratory Data Analysis
